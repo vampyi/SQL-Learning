@@ -14,12 +14,16 @@ This repository contains:
 
 ### SQL Fundamentals
 
-- [x] SELECT
+- [x] SELECT, FROM
 - [x] WHERE
-- [ ] DISTINCT
-- [ ] ORDER BY
-- [ ] LIMIT
+- [x] AND, OR, NOT
+- [x] BETWEEN, NOT BETWEEN
+- [x] IN
+- [x] LIKE
+- [x] ORDER BY
+- [x] LIMIT
 - [ ] ALIASING
+- [ ] DISTINCT
 
 ### Filtering & Aggregations
 
